@@ -8,7 +8,7 @@
 
 - [@Mehul](https://github.com/Mehul1699)
 - [@Praful Telgote](https://github.com/PrafulTelgote)
-- [@Dheeraj Singh](https://github.com/POPEYE-jpg)
+- [@Dheeraj Singh](https://github.com/DheerajS-Dev)
 - [@Akshay Boraste](https://github.com/akbora1994)
 - [@Safal Ali Khan](https://github.com/safalalikhan)
 
